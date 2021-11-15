@@ -1,4 +1,7 @@
-# module_20_challenge
+# Solidity
+
+### Deployed a smart contract on the Javascript VM provided by the Remix IDE. Below you will see screenshots of the deployed contracts and completed transactions. A link to the code can be found directly below. 
+[Code](Starter_Code/joint_savings.sol)
 
 ## Deployed Contract
 ![Deployed Contract](Images/deployed_results/deployed_contract.JPG)
